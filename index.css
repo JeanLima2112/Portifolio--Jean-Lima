@@ -40,12 +40,14 @@ footer{
     display: flex;
     justify-content: center; 
 }
-footer a {
+footer a{
     margin: 20px;
     text-align: center;
+
 }
-footer p {
+footer p:hover {
     margin-top: 2px;
+    color: rgb(14, 182, 204);
 }
 
 h1{
