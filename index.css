@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-color: rgba(0, 0, 0, 0.918);
+    background: linear-gradient(180deg,rgb(0, 0, 0),rgb(18, 83, 92));
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
